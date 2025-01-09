@@ -1,65 +1,94 @@
--- Call Center Analytics Using SQL
--- Purpose: This project leverages SQL to analyze call center data, aiming to enhance operational efficiency, identify performance trends, and improve customer satisfaction through data-driven insights.
+### Call Center Analytics Using SQL
 
--- Basic Queries
+**Purpose:** This project leverages SQL to analyze call center data, aiming to enhance operational efficiency, identify performance trends, and improve customer satisfaction through data-driven insights.
 
--- 1. List all calls with their details
+---
+
+#### Basic Queries
+
+1. **List all calls with their details**
+```sql
 SELECT * FROM CallCenterDataset;
+```
 
--- 2. Fetch unique topics discussed
+2. **Fetch unique topics discussed**
+```sql
 SELECT DISTINCT Topic FROM CallCenterDataset;
+```
 
--- 3. Count the total number of calls handled by each agent
+3. **Count the total number of calls handled by each agent**
+```sql
 SELECT Agent, COUNT(*) AS TotalCalls
 FROM CallCenterDataset
 GROUP BY Agent;
+```
 
--- Intermediate Queries
+---
 
--- 4. Calculate the average speed of answering calls for each agent
+#### Intermediate Queries
+
+4. **Calculate the average speed of answering calls for each agent**
+```sql
 SELECT Agent, AVG(Speed_of_answer_in_seconds) AS AvgAnswerSpeed
 FROM CallCenterDataset
 GROUP BY Agent;
+```
 
--- 5. Find calls that were unresolved
+5. **Find calls that were unresolved**
+```sql
 SELECT * 
 FROM CallCenterDataset
 WHERE Resolved = 'N';
+```
 
--- 6. List calls with satisfaction ratings below 3
+6. **List calls with satisfaction ratings below 3**
+```sql
 SELECT * 
 FROM CallCenterDataset
 WHERE Satisfaction_rating < 3;
+```
 
--- Advanced Queries
+---
 
--- 7. Identify agents with the highest number of resolved calls
+#### Advanced Queries
+
+7. **Identify agents with the highest number of resolved calls**
+```sql
 SELECT Agent, COUNT(*) AS ResolvedCalls
 FROM CallCenterDataset
 WHERE Resolved = 'Y'
 GROUP BY Agent
 ORDER BY ResolvedCalls DESC
 LIMIT 1;
+```
 
--- 8. Analyze the average talk duration for each topic
+8. **Analyze the average talk duration for each topic**
+```sql
 SELECT Topic, AVG(CAST(AvgTalkDuration AS TIME)) AS AvgTalkDuration
 FROM CallCenterDataset
 GROUP BY Topic;
+```
 
--- 9. Find the busiest time slots (hourly distribution)
+9. **Find the busiest time slots (hourly distribution)**
+```sql
 SELECT HOUR(Time) AS Hour, COUNT(*) AS CallsHandled
 FROM CallCenterDataset
 GROUP BY HOUR(Time)
 ORDER BY CallsHandled DESC;
+```
 
--- 10. Generate a summary of answered vs unanswered calls by agent
+10. **Generate a summary of answered vs unanswered calls by agent**
+```sql
 SELECT Agent,
        SUM(CASE WHEN Answered = 'Y' THEN 1 ELSE 0 END) AS AnsweredCalls,
        SUM(CASE WHEN Answered = 'N' THEN 1 ELSE 0 END) AS UnansweredCalls
 FROM CallCenterDataset
 GROUP BY Agent;
+```
 
--- 11. Evaluate the correlation between satisfaction rating and resolution status
+11. **Evaluate the correlation between satisfaction rating and resolution status**
+```sql
 SELECT Resolved, AVG(Satisfaction_rating) AS AvgSatisfaction
 FROM CallCenterDataset
 GROUP BY Resolved;
+```
