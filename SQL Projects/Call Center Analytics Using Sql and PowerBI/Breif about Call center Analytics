@@ -1,0 +1,83 @@
+# Call Center Analytics Dashboard
+
+## Overview
+This project focuses on developing an interactive **Call Center Analytics Dashboard** using **Power BI** to track, analyze, and visualize the performance metrics of a company's call center operations over a three-month period. The dashboard provides actionable insights into customer engagement, agent performance, and service efficiency.
+
+---
+
+## Key Features and Insights
+
+### 1. **Overall Customer Engagement**
+- **Total Users**: 5000
+- **Engaged Customers**: 4054 (81.08% engagement rate)
+
+### 2. **Customer Feedback**
+- **Average Agent Rating**: 3.40 (from customer surveys)
+
+### 3. **Call Handling Efficiency**
+- **Average Call Duration**: 17.52 seconds
+- **First Call Resolution (FCR)**: 72.92% of issues resolved in the first call
+- **Overall Call Resolution Rate**: 81.08%
+
+### 4. **Premium Services Performance**
+Tracked performance of eight premium services, including:
+- **Streaming Support**
+- **Technical Support**
+- **Payment-Related Assistance**
+- **Admin Support**
+- **Contact-Related Issues**
+
+### 5. **Agent Performance**
+- Monitored individual agent performance based on:
+  - **Total Calls Connected**
+  - **Successful Resolutions**
+  - **Average Customer Ratings**
+
+### 6. **Monthly and Weekly Trends**
+- Visualized trends in customer engagement, call handling, and service resolution rates over three months.
+
+---
+
+## Dashboard Features
+
+1. **Real-Time Insights**: 
+   - Provides dynamic views of key metrics with interactive filters for granular analysis.
+
+2. **Visualizations**:
+   - **Bar Charts**: Compare agent performance.
+   - **Pie Charts**: Distribution of call types.
+   - **Line Graphs**: Monthly/weekly trends in engagement and resolution.
+
+3. **Interactive Filters**:
+   - Filter by agent, service type, or date range.
+
+4. **Customer Feedback Analysis**:
+   - Highlights patterns in customer ratings for improvement opportunities.
+
+5. **Efficiency Benchmarking**:
+   - Identifies top-performing agents and services.
+
+---
+
+## Achievements Through the Dashboard
+
+1. **Enhanced Decision-Making**:
+   - Resource allocation and targeted training based on insights.
+
+2. **Improved Customer Experience**:
+   - High FCR and efficient handling time reflected in customer satisfaction.
+
+3. **Operational Optimization**:
+   - Streamlined operations by identifying bottlenecks.
+
+4. **Performance Recognition**:
+   - Benchmarked and rewarded top-performing agents and services.
+
+---
+
+## Tools and Technologies
+- **Power BI**: Data visualization and dashboard creation.
+- **Excel**: Data preparation and cleaning.
+- **SQL**: Querying and structuring call center data.
+
+---
