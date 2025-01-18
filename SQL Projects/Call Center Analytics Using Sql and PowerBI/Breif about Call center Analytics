@@ -74,9 +74,3 @@ Identifies top-performing agents and services to enhance overall productivity.
 - **SQL**: Structured and queried call center data.
 
 ---
-
-## Getting Started
-
-### **Clone the Repository**
-```bash
-git clone https://github.com/yourusername/call-center-analytics-dashboard.git
