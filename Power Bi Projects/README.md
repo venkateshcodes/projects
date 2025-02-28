@@ -1,49 +1,54 @@
-# Smart Route Optimization Analytics in Logistics Using Dijkstra Algorithm
+# Last Mile Delivery Trends – Three-Month Data Analytics (2022)
 
-## 📌 Project Overview
-This project focuses on optimizing delivery routes in logistics using the **Dijkstra Algorithm**. The goal is to enhance **delivery efficiency**, minimize travel time, and improve overall customer satisfaction. The analysis is performed using **Power BI**, providing interactive dashboards that showcase key insights into delivery performance.
+## Overview  
+This project analyzes last-mile delivery trends over a three-month period in 2022, focusing on key metrics such as:  
+- **Delivery Time** ⏳  
+- **Operational Costs** 💰  
+- **Efficiency & Performance** 🚀  
+- **Customer Satisfaction** ⭐  
+- **Bottleneck Identification** 📊  
 
-## 📌 Dashboard Title
-**Last Mile Delivery Trends - Three Month Data Analytics 2022**
+By leveraging **data analytics**, we identify patterns, delays, and optimization opportunities to enhance logistics performance and improve overall delivery services.  
 
-## 📊 Features & Insights
-- **Delivery Performance Analysis**: Evaluate delivery speed and efficiency across different routes.
-- **Traffic Impact Study**: Identify how different traffic conditions (high, medium, low) affect delivery time.
-- **Weather Conditions Analysis**: Understand the influence of weather on delivery speed.
-- **Vehicle Type Performance**: Compare delivery efficiency across motorcycles, scooters, electric scooters, and bicycles.
-- **City-Wise Delivery Trends**: Analyze average delivery time across various cities.
-- **Order Type Analysis**: Categorize deliveries into snacks, meals, buffets, and drinks to assess service demand.
-- **Festival vs. Normal Day Trends**: Identify changes in delivery patterns during festive seasons.
-- **Top & Bottom Performing Delivery Agents**: Rank delivery agents based on their efficiency.
-- **Multi-Delivery Impact**: Study the effect of multiple deliveries on overall service time.
+## 📌 Key Insights  
+- Trend analysis of delivery durations and delays.  
+- Impact of traffic, weather, and demand fluctuations.  
+- Optimization strategies for last-mile efficiency.  
+- Data-driven recommendations for reducing costs and improving customer experience.  
 
-## 🛠️ Technologies Used
-- **Power BI**: For data visualization and dashboard creation.
-- **Dijkstra Algorithm**: To optimize delivery routes.
-- **SQL/MySQL**: For data storage and querying (if applicable).
+## 📂 Dataset & Tools  
+- **Data Sources:** Delivery records, traffic reports, weather data.  
+- **Tech Stack:** Python, SQL, Power BI, Pandas, Matplotlib.  
 
-## 📈 Key Metrics
-- **Total Deliveries:** 7,242
-- **Average Delivery Time Per Order:** 26.53 minutes
-- **Customer Satisfaction Score:** 4.44/5
-- **Vehicle Type Contribution:** Motorcycles (74.78%), Scooters (22.23%)
-- **Impact of Traffic & Weather Conditions**: Detailed performance breakdown
+## 🚀 How to Use  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/yourusername/last-mile-delivery-analysis.git
 
-## 📌 How to Use
-1. **Download Power BI Desktop** if not installed.
-2. Open the provided Power BI file (`.pbix`).
-3. Explore various **filters, charts, and insights**.
-4. Use interactive visualizations to drill down into specific **cities, traffic types, and order categories**.
+2.  Navigate to the project folder:
+    ```sh
+    cd last-mile-delivery-analysis
 
-## 📢 Future Enhancements
-- **Integration with real-time data** to dynamically update delivery trends.
-- **Machine Learning models** for predictive route optimization.
-- **Live traffic and weather API integration**.
+3️.  Run the analysis script:
+    ```sh
+    python analyze_delivery.py
 
-## 💡 Key Takeaways
-This project showcases **how data analytics and optimization algorithms** can transform logistics operations, leading to improved efficiency, cost reduction, and higher customer satisfaction.
+## 📊 Visualizations
+🚀 Check out our interactive Power BI dashboards showcasing key insights!
 
----
+##  🤝 Contributing
+Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
 
-🚀 *Developed by KEDARI SRI VENKATESH Done By VenkateshCodes | Data Analytics Enthusiast*
+## 🔗 Connect
+📧 Email: [Mail To me](srivenkatesh6.k@gmail.com)
+🌐 LinkedIn: [Linkedin](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
 
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
+
+Project Done by **KEDARI sRI VENKATESH** Published on **VenkateshCodes**
+
+
+
+
+
+      
