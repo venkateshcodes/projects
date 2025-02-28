@@ -101,7 +101,7 @@ Contributions are welcome! Feel free to fork the repo, submit PRs, or open issue
 ---
 
 ## 🔗 Connect  
-📧 **Email:** (srivenkatesh6.k@gmail.com)  
+📧 **Email:** srivenkatesh6.k@gmail.com
 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  
 
 ---
