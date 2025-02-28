@@ -62,8 +62,8 @@ Contributions are welcome! Feel free to fork the repo, submit PRs, or open issue
 ## ⭐ Support  
 If you find this project useful, don't forget to **⭐ star the repository!**  
 
-### 📌 **Project by:** **KEDARI SRI VENKATESH**  
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
 📢 Published on **VenkateshCodes**  
 ```
 
-This version ensures proper markdown formatting and improves readability. Let me know if you need any edits! 🚀
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
