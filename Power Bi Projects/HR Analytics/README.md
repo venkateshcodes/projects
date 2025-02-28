@@ -54,13 +54,13 @@ By leveraging **data analytics**, the dashboard helps HR teams optimize workforc
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
 
---
+---
 
 🔗 Connect
 📧 Email: [Mail Me](srivenkatesh6.k@gmail.com)
 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
 
--- 
+---
 
 ⭐ Support
 If you find this project useful, don't forget to ⭐ star the repository!
@@ -68,6 +68,6 @@ If you find this project useful, don't forget to ⭐ star the repository!
 📌 Project by: KEDARI SRI VENKATESH
 📢 Published on VenkateshCodes
 
-markdown
+
 ```
 ⭐ If you find this project useful, don't forget to give it a star! ⭐
