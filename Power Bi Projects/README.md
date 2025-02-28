@@ -90,3 +90,27 @@ power-bi-projects/
 
 ---
 
+## 📊 Visualizations  
+🚀 Check out our **interactive Power BI dashboards** showcasing key insights!
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
+
+---
+
+## 🔗 Connect  
+📧 **Email:** (srivenkatesh6.k@gmail.com)  
+🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  
+
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
