@@ -63,27 +63,28 @@ sql-projects/
 
 ---
 
-🤝 Contributing
-Contributions are welcome! 🎉 If you have an SQL project you'd like to add, please follow these steps:
+## 📊 Visualizations
+🚀 Check out our interactive Power BI dashboards showcasing real-time workforce insights!
 
-Fork the repository.
+---
 
-Create a new branch for your project.
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
 
-Add your project files (SQL scripts, datasets, and README).
+---
 
-Submit a pull request.
+🔗 Connect
+📧 Email: [Mail Me](srivenkatesh6.k@gmail.com)
+🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
 
-📧 Contact
-For any questions or feedback, feel free to reach out:
+⭐ Support
+If you find this project useful, don't forget to ⭐ star the repository!
 
-👨‍💻 Author: Kedari Sri Venkatesh
+📌 Project Done by: **KEDARI SRI VENKATESH**
+📢 Published on **VenkateshCodes**
 
-📧 Email: your-email@example.com
 
-🔗 LinkedIn: VenkateshCodes LinkedIn Profile
-
-🐙 GitHub: VenkateshCodes GitHub Profile
+```
+⭐ If you find this project useful, don't forget to give it a star! ⭐
