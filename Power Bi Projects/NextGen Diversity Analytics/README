@@ -1,7 +1,8 @@
 # 📞 Call Center Analytics – Performance Insights  
 
 ## 🚀 Overview  
-This project presents a **Call Center Analytics Dashboard** built using **Power BI**, analyzing key customer service metrics over a period of three months. The dashboard provides insights into:  
+This project presents a **Call Center Analytics Dashboard** built using **Power BI**, analyzing key customer service metrics over a three-month period. The dashboard provides insights into:  
+
 - **Customer Engagement & Satisfaction** 😊  
 - **Service Quality & First Call Resolution (FCR) Rate** 📊  
 - **Agent Performance Metrics** 👩‍💼👨‍💼  
@@ -13,30 +14,30 @@ By leveraging **data analytics**, this project helps call centers **improve cust
 ---
 
 ## 📌 Key Insights  
-✅ **Total Users Engaged:** **5000**  
-✅ **Successful Engagement Rate:** **81.08%**  
-✅ **Average Customer Satisfaction Score:** **4.50** ⭐  
-✅ **First Call Resolution (FCR) Rate:** **72.92%**  
-✅ **Service Quality Assessment by Topic:**  
-   - **Technical Support:** 79%  
-   - **Streaming Issues:** 82.88%  
-   - **Payment-Related Queries:** 81.23%  
-   - **Contract-Related Issues:** 80.84%  
-✅ **Agent Performance:**  
-   - **Top Agent (Highest Satisfaction Rating):** Martha (3.47)  
-   - **Total Resolutions:** 3646  
+- **Total Users Engaged:** **5000**  
+- **Successful Engagement Rate:** **81.08%**  
+- **Average Customer Satisfaction Score:** **4.50** ⭐  
+- **First Call Resolution (FCR) Rate:** **72.92%**  
+- **Service Quality Assessment by Topic:**  
+  - **Technical Support:** 79%  
+  - **Streaming Issues:** 82.88%  
+  - **Payment-Related Queries:** 81.23%  
+  - **Contract-Related Issues:** 80.84%  
+- **Agent Performance:**  
+  - **Top Agent (Highest Satisfaction Rating):** Martha (3.47)  
+  - **Total Resolutions:** 3646  
 
 ---
 
 ## 📂 Dataset & Tools  
-🔹 **Data Sources:** Call Center Logs, Customer Feedback Data  
-🔹 **Tech Stack:** Power BI, Excel, SQL  
-🔹 **Key Metrics:** Customer Satisfaction, First Call Resolution, Agent Performance  
+- **Data Sources:** Call Center Logs, Customer Feedback Data  
+- **Tech Stack:** Power BI, Excel, SQL  
+- **Key Metrics:** Customer Satisfaction, First Call Resolution, Agent Performance  
 
 ---
 
 ## ⚙️ How to Use  
-1️⃣ **Clone the repository:**  
+1. **Clone the repository:**  
    ```sh
    git clone https://github.com/yourusername/call-center-analytics.git
-  ```
+   ```
