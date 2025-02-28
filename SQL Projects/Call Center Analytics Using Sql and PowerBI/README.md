@@ -80,3 +80,20 @@ This data can be used to:
 Contributions are welcome! 🎉 Please open an issue or submit a pull request for any improvements or additional analyses.
 
 ---
+
+
+## 🔗 Connect
+📧 Email: [Mail Me](srivenkatesh6.k@gmail.com)
+🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
+
+---
+
+⭐ Support
+If you find this project useful, don't forget to ⭐ star the repository!
+
+📌 Project Done by: **KEDARI SRI VENKATESH**
+📢 Published on **VenkateshCodes**
+
+
+```
+⭐ If you find this project useful, don't forget to give it a star! ⭐
