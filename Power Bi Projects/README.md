@@ -15,7 +15,7 @@ The **Delivery Analytics** dashboard provides insights into delivery performance
 - **Customer Feedback**: Analyze customer satisfaction scores.
 
 ### Screenshot
-![Delivery Analytics Screenshot](https://via.placeholder.com/600x400) *(Replace with actual screenshot)*
+![Delivery Analytics Screenshot](https://github.com/venkateshcodes/projects/blob/425a1c1b904819729353f84607fa828b7454b983/Power%20Bi%20Projects/Delivery%20Analytics/Dashboard%20pic.png) 
 
 ---
 
@@ -30,7 +30,7 @@ The **HR Dashboard Analytics** project focuses on employee performance, retentio
 - **Recruitment Insights**: Analyze hiring trends and time-to-fill metrics.
 
 ### Screenshot
-![HR Dashboard Screenshot](https://via.placeholder.com/600x400) *(Replace with actual screenshot)*
+![HR Dashboard Screenshot](https://github.com/venkateshcodes/projects/blob/b5eb9f579136eb418a0e8c870fc4a2aa4b1fe4b6/Power%20Bi%20Projects/HR%20Analytics/HR%20Analytics%20Dashboard.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ The **Diversity Analytics** dashboard highlights workforce diversity, inclusion,
 - **Promotion Trends**: Track promotion rates by demographic groups.
 
 ### Screenshot
-![Diversity Analytics Screenshot](https://via.placeholder.com/600x400) *(Replace with actual screenshot)*
+![Diversity Analytics Screenshot](https://github.com/venkateshcodes/projects/blob/93048c31742f3caf643cdb58ae14e3880e418afb/Power%20Bi%20Projects/NextGen%20Diversity%20Analytics/Churn%20Analytics.jpg)
 
 ---
 
