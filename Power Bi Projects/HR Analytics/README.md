@@ -65,8 +65,8 @@ Contributions are welcome! Feel free to fork the repo, submit PRs, or open issue
 ⭐ Support
 If you find this project useful, don't forget to ⭐ star the repository!
 
-📌 Project by: KEDARI SRI VENKATESH
-📢 Published on VenkateshCodes
+📌 Project by: **KEDARI SRI VENKATESH**
+📢 Published on **VenkateshCodes**
 
 
 ```
