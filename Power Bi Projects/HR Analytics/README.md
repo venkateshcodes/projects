@@ -60,6 +60,8 @@ Contributions are welcome! Feel free to fork the repo, submit PRs, or open issue
 📧 Email: [Mail Me](srivenkatesh6.k@gmail.com)
 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
 
+-- 
+
 ⭐ Support
 If you find this project useful, don't forget to ⭐ star the repository!
 
@@ -68,4 +70,4 @@ If you find this project useful, don't forget to ⭐ star the repository!
 
 markdown
 ```
-This version ensures **proper markdown formatting** and enhances **readability** for GitHub. 🚀 L
+⭐ If you find this project useful, don't forget to give it a star! ⭐
