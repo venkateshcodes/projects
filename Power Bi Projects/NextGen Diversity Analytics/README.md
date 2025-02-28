@@ -122,6 +122,21 @@ Contributions are welcome! 🎉 Please open an issue or submit a pull request fo
 
 ---
 
-## 📜 License
+## 📊 Visualizations
+🚀 Check out our interactive Power BI dashboards showcasing real-time workforce insights!
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
+
+---
+
+🔗 Connect
+📧 Email: [Mail Me](srivenkatesh6.k@gmail.com)
+🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
+
+---
+
+⭐ Support
+If you find this project useful, don't forget to ⭐ star the repository!
