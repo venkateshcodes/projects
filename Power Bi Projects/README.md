@@ -65,18 +65,26 @@ The **Diversity Analytics** dashboard highlights workforce diversity, inclusion,
 ---
 
 ## 📂 Project Structure
-
+```
 power-bi-projects/
 ├── Delivery-Analytics/
-│   ├── Delivery-Analytics.pbix
-│   ├── README.md
-│   └── data/
+│ ├── Delivery-Analytics.pbix
+│ ├── README.md
+│ └── data/
+│ ├── delivery_data.csv
+│ └── customer_feedback.csv
 ├── HR-Dashboard-Analytics/
-│   ├── HR-Dashboard-Analytics.pbix
-│   ├── README.md
-│   └── data/
+│ ├── HR-Dashboard-Analytics.pbix
+│ ├── README.md
+│ └── data/
+│ ├── employee_data.csv
+│ └── recruitment_data.csv
 ├── Diversity-Analytics/
-│   ├── Diversity-Analytics.pbix
-│   ├── README.md
-│   └── data/
+│ ├── Diversity-Analytics.pbix
+│ ├── README.md
+│ └── data/
+│ ├── diversity_data.csv
+│ └── engagement_data.csv
 └── README.md
+
+```
