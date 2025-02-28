@@ -21,7 +21,7 @@ The **Call Center Analytics** project, developed by **Kedari Sri Venkatesh** and
 - **🛠️ Tools Used**: SQL, Power BI (for visualization)
 
 ### Screenshot
-![Call Center Analytics Screenshot](https://via.placeholder.com/600x400) *(Replace with actual screenshot)*
+![Call Center Analytics Screenshot](https://github.com/venkateshcodes/projects/blob/633af310d7c0c81b03bca24d0fff45bebdbbbe9b/SQL%20Projects/Call%20Center%20Analytics%20Using%20Sql%20and%20PowerBI/Call%20Center%20Analytics%20Dashboard.jpg)
 
 ---
 
