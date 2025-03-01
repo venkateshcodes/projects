@@ -73,4 +73,13 @@ Excel projects demonstrate **data manipulation, advanced formulas, and visualiza
 ## 📬 Contact
 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)** or reach out via **[Email](srivenkatesh6.k@gmail.com)**.
 
-If you find this repository useful, don't forget to ⭐ star it! 😊
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
