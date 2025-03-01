@@ -30,7 +30,7 @@ SQL projects focus on **data querying, transformation, and optimization**. These
 - **Sales Performance Dashboard** - Querying sales data for insightful business reporting.
 - **Employee Attendance Analysis** - Analyzing attendance trends using SQL queries.
 
-🔗 **[Explore SQL Projects](./SQL-Projects/)**
+🔗 **[Explore SQL Projects](https://github.com/venkateshcodes/projects/tree/b5645c57e6940d003a5dd5efef2b3ddd22715115/SQL%20Projects)**
 
 ---
 
@@ -40,7 +40,7 @@ Power BI projects include **interactive dashboards and reports** for data visual
 - **Call Center Performance Analytics** - Insights on call center operations and efficiency.
 - **Hotel Management Dashboard** - Visualizing operational performance in the hospitality industry.
 
-🔗 **[Explore Power BI Projects](./PowerBI-Projects/)**
+🔗 **[Explore Power BI Projects](https://github.com/venkateshcodes/projects/tree/b5645c57e6940d003a5dd5efef2b3ddd22715115/Power%20Bi%20Projects)**
 
 ---
 
@@ -50,7 +50,7 @@ Excel projects demonstrate **data manipulation, advanced formulas, and visualiza
 - **Employee Productivity Dashboard** - Tracking performance metrics using pivot tables.
 - **Customer Churn Analysis** - Identifying churn trends using Excel functions.
 
-🔗 **[Explore Excel Projects](./Excel-Projects/)**
+🔗 **[Explore Excel Projects](https://github.com/venkateshcodes/projects/tree/b5645c57e6940d003a5dd5efef2b3ddd22715115/Excel%20Projects)**
 
 ---
 
@@ -72,6 +72,6 @@ Excel projects demonstrate **data manipulation, advanced formulas, and visualiza
 ---
 
 ## 📬 Contact
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/yourprofile/)** or reach out via **[Email](mailto:your.email@example.com)**.
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)** or reach out via **[Email](srivenkatesh6.k@gmail.com)**.
 
 If you find this repository useful, don't forget to ⭐ star it! 😊
