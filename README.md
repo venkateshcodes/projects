@@ -26,9 +26,8 @@ Welcome to my **Data Analytics Projects Repository**! 🚀 This repository showc
 
 ### 📌 SQL Projects
 SQL projects focus on **data querying, transformation, and optimization**. These include:
-- **Customer Segmentation Analysis** - Using SQL to segment customers based on purchase behavior.
+- **Call Center Performance Analytics** - Insights on call center operation
 - **Sales Performance Dashboard** - Querying sales data for insightful business reporting.
-- **Employee Attendance Analysis** - Analyzing attendance trends using SQL queries.
 
 🔗 **[Explore SQL Projects](https://github.com/venkateshcodes/projects/tree/b5645c57e6940d003a5dd5efef2b3ddd22715115/SQL%20Projects)**
 
@@ -37,15 +36,15 @@ SQL projects focus on **data querying, transformation, and optimization**. These
 ### 📌 Power BI Projects
 Power BI projects include **interactive dashboards and reports** for data visualization and business intelligence:
 - **Diversity Inclusion Analytics** - Dashboard analyzing diversity metrics in a company.
-- **Call Center Performance Analytics** - Insights on call center operations and efficiency.
-- **Hotel Management Dashboard** - Visualizing operational performance in the hospitality industry.
+- **Employee Attendance Analysis** - Analyzing attendance trends using SQL queries.
+- **Last Mile Delivery Trends : 3 Month Data Analytics 2022** - Analyzing delivery trends and logistics efficiency over a three-month period.
 
 🔗 **[Explore Power BI Projects](https://github.com/venkateshcodes/projects/tree/b5645c57e6940d003a5dd5efef2b3ddd22715115/Power%20Bi%20Projects)**
 
 ---
 
 ### 📌 Excel Projects
-Excel projects demonstrate **data manipulation, advanced formulas, and visualization**:
+Excel projects demonstrate **data manipulation, advanced formulas, and visualization**: (NotDone MyIdeas)
 - **Financial Budget Tracker** - Analyzing monthly expenses and income trends.
 - **Employee Productivity Dashboard** - Tracking performance metrics using pivot tables.
 - **Customer Churn Analysis** - Identifying churn trends using Excel functions.
