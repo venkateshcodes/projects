@@ -47,7 +47,7 @@ The purpose of this project is to map those questions directly to visual answers
 
 The project includes an operational visual gallery:
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](https://github.com/venkateshcodes/projects/blob/e155ae8d766513323aeac1bd1a190bd05d512560/Power%20Bi%20Projects/Bank%20Loan%20Analytics/Project%20Previeww.png)
 
 **[Open Full Dashboard Overview Screenshot](screenshots/dashboard-overview.png)**
 
