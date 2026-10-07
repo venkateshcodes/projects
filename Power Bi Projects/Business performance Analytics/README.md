@@ -33,10 +33,10 @@ The purpose of this project is to map those questions to the correct visualizati
 
 | Resource | Description | Link |
 |---|---|---|
-| 📄 Client Analysis Document | Client questions, visualization answers, insights and recommendations | [View Client Analysis Document](Business_Analytics_Client_Questions_and_Insights.docx) |
-| 📊 Excel Dataset | Cleaned MIS dataset used for the analysis | [View MIS Cleaned Data](MIS_Cleaned_Data.xlsx) |
-| 📈 Power BI Dashboard | Interactive Power BI business analysis dashboard | [Open Power BI Dashboard](Business_Analysis_Dashboard.pbix) |
-| 🖼️ Dashboard Screenshots | Screenshots of the Power BI dashboard and key visuals | [View Screenshots](screenshots/) |
+| 📄 Client Analysis Document | Client questions, visualization answers, insights and recommendations | [View Client Analysis Document](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/Business_Analytics_Client_Questions_and_Insights.docx) |
+| 📊 Excel Dataset | Cleaned MIS dataset used for the analysis | [View MIS Cleaned Data]([MIS_Cleaned_Data.xlsx](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/MIS_Cleaned_Data.xlsx)) |
+| 📈 Power BI Dashboard | Interactive Power BI business analysis dashboard | [Open Power BI Dashboard]([Business_Analysis_Dashboard.pbix](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/Business_Analysis_Dashboard.pbix)) |
+| 🖼️ Dashboard Screenshots | Screenshots of the Power BI dashboard and key visuals | [View Screenshots]([screenshots/](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/Project_Preview.png)) |
 
 ### Dashboard Screenshots
 
@@ -53,7 +53,7 @@ screenshots/
 
 Example:
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview]([screenshots/dashboard-overview.png](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/Project_Preview.png))
 
 ![Sales Analysis](screenshots/sales-analysis.png)
 
