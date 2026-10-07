@@ -37,6 +37,8 @@ The purpose of this project is to map those questions to the correct visualizati
 | 📊 Excel Dataset | Cleaned MIS dataset used for the analysis | [View MIS Cleaned Data](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/MIS_Cleaned_Data.xlsx) |
 | 📈 Power BI Dashboard | Interactive Power BI business analysis dashboard | [Open Power BI Dashboard](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/Business_Analysis_Dashboard.pbix) |
 | 🖼️ Dashboard Screenshot | Preview image of the Power BI dashboard | [View Dashboard Screenshot](https://github.com/venkateshcodes/projects/blob/b60e56f6269adaf8bc8587fbf93cf99b0701e825/Power%20Bi%20Projects/Business%20performance%20Analytics/Project_Preview.png) |
+| 👉 Presentation | Overall Presentation | [View Presentation ](https://github.com/venkateshcodes/projects/blob/bce1f0847cb27715e28eae52c9a1455477a65419/Power%20Bi%20Projects/Business%20performance%20Analytics/MIS%20Intern%20PPT.pptx) |
+
 
 ### Dashboard Screenshot
 
