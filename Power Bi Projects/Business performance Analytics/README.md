@@ -29,6 +29,36 @@ They ask business questions such as:
 
 The purpose of this project is to map those questions to the correct visualization and explain the business meaning of the answer.
 
+## Project Files & Resources
+
+| Resource | Description | Link |
+|---|---|---|
+| 📄 Client Analysis Document | Client questions, visualization answers, insights and recommendations | [View Client Analysis Document](Business_Analytics_Client_Questions_and_Insights.docx) |
+| 📊 Excel Dataset | Cleaned MIS dataset used for the analysis | [View MIS Cleaned Data](MIS_Cleaned_Data.xlsx) |
+| 📈 Power BI Dashboard | Interactive Power BI business analysis dashboard | [Open Power BI Dashboard](Business_Analysis_Dashboard.pbix) |
+| 🖼️ Dashboard Screenshots | Screenshots of the Power BI dashboard and key visuals | [View Screenshots](screenshots/) |
+
+### Dashboard Screenshots
+
+Add your Power BI screenshots inside the `screenshots/` folder and use the following structure:
+
+```text
+screenshots/
+├── dashboard-overview.png
+├── sales-analysis.png
+├── crm-analysis.png
+├── finance-analysis.png
+└── operations-analysis.png
+```
+
+Example:
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+![Sales Analysis](screenshots/sales-analysis.png)
+
+> **Note:** GitHub-relative links are used so the README works directly after uploading these files and the `screenshots` folder to the same repository.
+
 ## Dataset Summary
 
 | Area | Records | Main fields |
